@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKCore&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 Github Profile Trophy
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
+<img width=800 src="https://trophy.ryglcloud.net/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 
 
 ### ✍️ Random Dev Quote
