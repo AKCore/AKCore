@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Honda Tuning Suite T^T<br>👯 I’m looking to collaborate<br>
+🔭 I’m currently working on SGK Embedded Performance Standalone ECUS and epicEFI T^T<br>👯 I’m looking to collaborate<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SanGawku#0420) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Conscious_Phrase_138) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DBOURDev) 
